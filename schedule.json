@@ -18,6 +18,108 @@
         ]
       },
       {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
         "date": "2024-02-07",
         "lessonList": [
           {
@@ -68,7 +170,7 @@
           }
         ]
       },
-      
+
       {
         "date": "2024-02-10",
         "lessonList": [
@@ -86,6 +188,5 @@
           }
         ]
       }
-      
     ]
   }

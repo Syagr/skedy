@@ -29,3 +29,20 @@
 .schedule-container__wrapper ul li {
 	margin-bottom: 10px;
 }
+
+.file-inputs {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.file-inputs div {
+	background-color: rgb(0, 183, 255);
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.file-inputs input,
+.file-inputs select,
+.file-inputs button {
+	margin: 5px 0;
+}

@@ -1,0 +1,91 @@
+{
+		"schedule": [
+			{
+				"date": "2024-03-01",
+				"lessonList": [
+					{
+						"subject": "Literature",
+						"time": "9:00 - 10:30",
+						"teacher": "Litovchenko L.L.",
+						"classroom": "201"
+					},
+					{
+						"subject": "French Language",
+						"time": "10:45 - 12:15",
+						"teacher": "Francois F.F.",
+						"classroom": "202"
+					}
+				]
+			},
+			{
+				"date": "2024-03-02",
+				"lessonList": [
+					{
+						"subject": "Art",
+						"time": "8:30 - 10:00",
+						"teacher": "Artistov A.A.",
+						"classroom": "203"
+					},
+					{
+						"subject": "Music",
+						"time": "10:15 - 11:45",
+						"teacher": "Musicov M.M.",
+						"classroom": "204"
+					}
+				]
+			},
+			{
+				"date": "2024-03-03",
+				"lessonList": [
+					{
+						"subject": "Biology",
+						"time": "9:30 - 11:00",
+						"teacher": "Biologova B.B.",
+						"classroom": "205"
+					},
+					{
+						"subject": "Mathematics",
+						"time": "11:15 - 12:45",
+						"teacher": "Mathov M.M.",
+						"classroom": "206"
+					}
+				]
+			},
+			{
+				"date": "2024-03-04",
+				"lessonList": [
+					{
+						"subject": "Physical Education",
+						"time": "8:00 - 9:00",
+						"teacher": "Sportov S.S.",
+						"classroom": "Gym"
+					},
+					{
+						"subject": "Chemistry",
+						"time": "9:15 - 10:45",
+						"teacher": "Chemov C.C.",
+						"classroom": "207"
+					}
+				]
+			},
+			
+			{
+				"date": "2024-03-05",
+				"lessonList": [
+					{
+						"subject": "Geography",
+						"time": "10:00 - 11:30",
+						"teacher": "Geografov G.G.",
+						"classroom": "208"
+					},
+					{
+						"subject": "Computer Science",
+						"time": "11:45 - 13:15",
+						"teacher": "ITeacher I.I.",
+						"classroom": "209"
+					}
+				]
+			}
+			
+		]
+	}
